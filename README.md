@@ -3,31 +3,18 @@
 
 Je suis un étudiant dév à l'école Holberton, actuellement dans mes premiers jours. Curieux, motivé et prêt à apprendre, je commence à explorer les bases de la programation, du shell, de Git.
 
-## :ear: Ce que j'ai commencé à apprendre 
-
-- Commandes de base du terminal (bash)
-- Système de gestion de version (Git)
-- Rédaction de READEAM 📝
-
 ## 💫  Objectifs à court terme
 
-- Comprendre le fonctionnement de Shell
+- Apprendre les bases de tout langage avec le C
 - Être à l'aise avec Git / GitHub
 - Aprendre à Apprendre
 
 ## 🛠️ Languages que je vais apprendre prochainement
 
-- C
-- HTML/ CSS
 - Python
 
 ## 💬 Un peu plus sur moi
 
-J'ai rejoint Holberton pour devenir déveleppeur capable dé résoudre de vrais problèmes. Je suis encore au tout début, mais j'ai hâte de progrresser !
+J'ai rejoint Holberton pour devenir développeur capable de résoudre de vrais problèmes. Je suis encore au tout début, mais j'ai hâte de progresser !
 
 ---
-
-<a href="https://dpm.lol/%E6%B3%B0%E4%B8%9D%E5%84%BF-Kami">
-  <img src="https://img.shields.io/badge/OP.GG-000000?logo=opgg&logoColor=white&style=for-the-badge" alt="OP.GG badge">
-</a>
-
