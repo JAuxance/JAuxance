@@ -1,21 +1,59 @@
-# <h1 style="text-align:center;">👋 Salut, je suis Auxance! ![Commits](https://img.shields.io/badge/commits-248+-green) ![Repos](https://img.shields.io/badge/repos-4-blue) ![last-commit](https://img.shields.io/github/last-commit/JAuxance/holbertonschool-shell)<h1>![532984](https://github.com/user-attachments/assets/036c64c3-5132-43bb-a733-bccb8e69aaee)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=dark) 
-
-
-Je suis un étudiant dév à l'école Holberton, actuellement dans mes premiers jours. Curieux, motivé et prêt à apprendre, je commence à explorer les bases de la programation, du shell, de Git.
-
-## 💫  Objectifs à court terme
-
-- Apprendre les bases de tout langage avec le C
-- Être à l'aise avec Git / GitHub
-- Aprendre à Apprendre
-
-## 🛠️ Languages que je vais apprendre prochainement
-
-- Python
-
-## 💬 Un peu plus sur moi
-
-J'ai rejoint Holberton pour devenir développeur capable de résoudre de vrais problèmes. Je suis encore au tout début, mais j'ai hâte de progresser !
+# 👋 Salut, je suis Auxance  
+![Commits](https://img.shields.io/badge/commits-248+-green)  
+![Repos](https://img.shields.io/badge/repos-4-blue)  
+![Last Commit](https://img.shields.io/github/last-commit/JAuxance/holbertonschool-low_level_programming)
 
 ---
+
+## 🚀 À propos
+Étudiant développeur à Holberton, actuellement dans mes premières semaines.  
+Je construis mes bases solides : C, Shell, Git, algorithmie et compréhension réelle du fonctionnement interne d’un programme.  
+Objectif : devenir un dev capable de résoudre des problèmes concrets, proprement et efficacement.
+
+---
+
+## 🔥 Ce sur quoi je travaille maintenant
+- Recréation de la fonction **printf** en C  
+- Compréhension profonde de la **mémoire**, `malloc`, `free`, pointeurs  
+- Construction d’un système de **fiches de révision** (C, shell, concepts fondamentaux)  
+- Structurer mes bases Git/GitHub (branches, merges, workflow propre)
+
+---
+
+## 🎯 Objectifs à court terme
+- Maîtriser les fondamentaux du langage C  
+- Être solide sur Git / GitHub  
+- Développer ma capacité à apprendre vite et intelligemment  
+- Monter en compétence sur Linux et l’écosystème dev
+
+---
+
+## 🛠️ Outils et langages (actuels & en cours)
+### Langages
+- C (débutant motivé)  
+- Shell  
+- Python (prochain sur la liste)
+
+### Outils
+- Git & GitHub  
+- VS Code  
+- Ubuntu / WSL  
+- GCC / Debuggers de base (gdb, valgrind prochainement)
+
+---
+
+## 📊 Stats GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=dark)  
+![Stats](https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&theme=dark)
+
+---
+
+## 💬 Un peu plus sur moi
+Je suis parti de zéro, mais avec une mentalité simple : progresser chaque jour.  
+J’ai rejoint Holberton pour apprendre par la pratique, comprendre les systèmes en profondeur, et devenir un développeur capable d’affronter des projets exigeants.
+
+---
+
+## 📎 Liens utiles
+- 🔗 **GitHub principal :** https://github.com/JAuxance  
+- 📘 **Low Level Programming Repo :** https://github.com/JAuxance/holbertonschool-low_level_programming  
