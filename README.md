@@ -30,11 +30,7 @@ Actuellement en pleine immersion chez **Holberton School**, je viens de boucler 
 
 ### 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&theme=visual_studio_code&count_private=true" alt="Stats de Auxance" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=visual_studio_code" alt="Langages les plus utilisés" />
-</p>
+SOON
 
 ---
 
