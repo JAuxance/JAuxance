@@ -1,59 +1,54 @@
-# 👋 Salut, je suis Auxance  
-![Commits](https://img.shields.io/badge/commits-248+-green)  
-![Repos](https://img.shields.io/badge/repos-4-blue)  
-![Last Commit](https://img.shields.io/github/last-commit/JAuxance/holbertonschool-low_level_programming)
+# 👨‍💻 Auxance | Software Engineer Student @Holberton School
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Auxance%20&fontSize=90)
+
+### 🚀 À propos de moi
+Actuellement en pleine immersion chez **Holberton School**, je viens de boucler mon premier trimestre axé sur le **Low-Level Programming**. Passionné par la compréhension de "comment ça marche sous le capot", je me concentre sur l'écriture d'un code robuste, efficace et respectueux des standards (Betty style).
+
+* **Trimestre 1 validé :** Fondamentaux du C, Shell, et manipulation de la mémoire.
+* **Ma devise :** "Comprendre chaque ligne de code que j'écris."
 
 ---
 
-## 🚀 À propos
-Étudiant développeur à Holberton, actuellement dans mes premières semaines.  
-Je construis mes bases solides : C, Shell, Git, algorithmie et compréhension réelle du fonctionnement interne d’un programme.  
-Objectif : devenir un dev capable de résoudre des problèmes concrets, proprement et efficacement.
+### 🛠️ Stack Technique (En progression)
+
+| Catégorie | Outils & Langages |
+| :--- | :--- |
+| **Langages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Environnement** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white) |
+| **Outils Dev** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-196D2A?style=flat-square&logo=vim&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-FFD11A?style=flat-square&logo=gnu&logoColor=black) ![Valgrind](https://img.shields.io/badge/Valgrind-5D913F?style=flat-square) |
 
 ---
 
-## 🔥 Ce sur quoi je travaille maintenant
-- Recréation de la fonction **printf** en C  
-- Compréhension profonde de la **mémoire**, `malloc`, `free`, pointeurs  
-- Construction d’un système de **fiches de révision** (C, shell, concepts fondamentaux)  
-- Structurer mes bases Git/GitHub (branches, merges, workflow propre)
+### 🔥 Projets Marquants (Holberton)
+
+* **[_printf](https://github.com/JAuxance/holbertonschool-printf) :** Recréation complète de la fonction `printf` en C. Gestion des flags, de la mémoire et des buffers.
+* **[Low-Level Programming](https://github.com/JAuxance/holbertonschool-low_level_programming) :** Une collection de projets explorant les structures de données, les pointeurs et la gestion dynamique de la mémoire (`malloc`, `free`).
+* **Shell Zero Day :** Apprentissage intensif des commandes Unix et de l'automatisation via scripts Bash.
 
 ---
 
-## 🎯 Objectifs à court terme
-- Maîtriser les fondamentaux du langage C  
-- Être solide sur Git / GitHub  
-- Développer ma capacité à apprendre vite et intelligemment  
-- Monter en compétence sur Linux et l’écosystème dev
+### 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&theme=visual_studio_code&count_private=true" alt="Stats de Auxance" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=visual_studio_code" alt="Langages les plus utilisés" />
+</p>
 
 ---
 
-## 🛠️ Outils et langages (actuels & en cours)
-### Langages
-- C (débutant motivé)  
-- Shell  
-- Python (prochain sur la liste)
-
-### Outils
-- Git & GitHub  
-- VS Code  
-- Ubuntu / WSL  
-- GCC / Debuggers de base (gdb, valgrind prochainement)
+### 🎯 Mes prochains défis
+- [ ] Maîtriser les algorithmes de tri complexes.
+- [ ] Approfondir Python pour le scripting avancé.
+- [ ] Contribuer à mes premiers projets open-source.
+- [ ] Zéro fuite mémoire sur Valgrind, systématiquement !
 
 ---
 
-## 📊 Stats GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=dark)  
-![Stats](https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&theme=dark)
+### 📫 Me contacter
+* **GitHub :** [JAuxance](https://github.com/JAuxance)
+* **LinkedIn :** [Ton Nom](Lien-Vers-Ton-LinkedIn)
 
 ---
-
-## 💬 Un peu plus sur moi
-Je suis parti de zéro, mais avec une mentalité simple : progresser chaque jour.  
-J’ai rejoint Holberton pour apprendre par la pratique, comprendre les systèmes en profondeur, et devenir un développeur capable d’affronter des projets exigeants.
-
----
-
-## 📎 Liens utiles
-- 🔗 **GitHub principal :** https://github.com/JAuxance  
-- 📘 **Low Level Programming Repo :** https://github.com/JAuxance/holbertonschool-low_level_programming  
+<p align="center">Dernière mise à jour : Janvier 2024</p>
