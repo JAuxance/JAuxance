@@ -22,9 +22,9 @@ Actuellement en pleine immersion chez **Holberton School**, je viens de boucler 
 
 ### 🔥 Projets Marquants (Holberton)
 
+* **[Simple-shell](https://github.com/JAuxance/holbertonschool-shell) :**Implémentation d’un shell minimal en C.
 * **[_printf](https://github.com/JAuxance/holbertonschool-printf) :** Recréation complète de la fonction `printf` en C. Gestion des flags, de la mémoire et des buffers.
 * **[Low-Level Programming](https://github.com/JAuxance/holbertonschool-low_level_programming) :** Une collection de projets explorant les structures de données, les pointeurs et la gestion dynamique de la mémoire (`malloc`, `free`).
-* **Shell Zero Day :** Apprentissage intensif des commandes Unix et de l'automatisation via scripts Bash.
 
 ---
 
