@@ -48,7 +48,6 @@ Actuellement en pleine immersion chez **Holberton School**, je viens de boucler 
 
 ### 📫 Me contacter
 * **GitHub :** [JAuxance](https://github.com/JAuxance)
-* **LinkedIn :** [Ton Nom](Lien-Vers-Ton-LinkedIn)
 
 ---
 <p align="center">Dernière mise à jour : Janvier 2024</p>
