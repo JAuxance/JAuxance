@@ -23,7 +23,7 @@ I am driven by a deep interest in understanding *how things work under the hood*
 
 ### 🔥 Highlighted Projects (Holberton)
 
-* **[Simple Shell](https://github.com/JAuxance/holbertonschool-shell):** Implementation of a minimal Unix shell written in C.
+* **[Simple Shell](https://github.com/JAuxance/holbertonschool-simple_shell):** Implementation of a minimal Unix shell written in C.
 * **[Printf](https://github.com/JAuxance/holbertonschool-printf):** Full reimplementation of the `printf` function in C, including flags handling, memory management, and buffering.
 * **[Low-Level Programming](https://github.com/JAuxance/holbertonschool-low_level_programming):** A collection of projects exploring data structures, pointers, and dynamic memory management (`malloc`, `free`).
 
