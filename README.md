@@ -1,4 +1,4 @@
-# 👨‍💻 Auxance | Software Engineering Student @ Holberton School
+#  Auxance | Software Engineering Student @ Holberton School
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Auxance&fontSize=90)
 
