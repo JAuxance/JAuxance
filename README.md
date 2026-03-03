@@ -35,11 +35,8 @@ I am driven by a deep interest in understanding *how things work under the hood*
 ---
 
 ### 🎯 Next Goals
-- [ ] Master advanced sorting algorithms.
+- [ ] AI Learning Project
 - [ ] Deepen Python skills for advanced scripting.
-- [ ] Contribute to my first open-source projects.
-- [ ] Zero memory leaks on Valgrind — every time.
-
 ---
 
 ### 📫 Contact
