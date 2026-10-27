@@ -28,7 +28,9 @@ Currently shipping **Manager** and **TaskFlow**, strengthening my software engin
 
 A free desktop app for Windows and Linux. Tasks, focus sessions, planning, journal and review — brought together in one quiet, deliberate interface.
 
-<video src="https://raw.githubusercontent.com/JAuxance/JAuxance/main/assets/manager-line-final-web.mp4" poster="assets/manager-poster.jpg" controls muted playsinline width="100%"></video>
+<a href="https://raw.githubusercontent.com/JAuxance/JAuxance/main/assets/manager-line-final-web.mp4">
+  <img src="assets/manager-line-final.webp" alt="Manager — animated launch film" width="100%">
+</a>
 
 <br>
 
