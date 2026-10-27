@@ -1,5 +1,5 @@
 <a href="https://auxance.dev" title="auxance.dev ↗">
-  <img src="assets/banner.png" alt="Engineer and developer — France" title="auxance.dev ↗" width="100%">
+  <img src="assets/cover.png" alt="Engineer and developer — France" title="auxance.dev ↗" width="100%">
 </a>
 
 <p>
