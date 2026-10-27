@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220" role="img" aria-labelledby="title">
+  <title id="title">No black boxes — understand first, then build</title>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#c7ff3d"/><stop offset="1" stop-color="#ff3d9a"/></linearGradient>
+  </defs>
+  <rect width="1400" height="220" rx="22" fill="#08090c"/>
+  <rect x="1" y="1" width="1398" height="218" rx="21" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+  <rect x="0" y="0" width="1400" height="4" rx="2" fill="url(#line)"/>
+  <text x="54" y="83" fill="#f5f6f8" font-family="Arial Black,Arial,sans-serif" font-size="53" font-weight="900" letter-spacing="-1">NO BLACK BOXES.</text>
+  <text x="56" y="133" fill="#a3a9b5" font-family="Arial,sans-serif" font-size="25">If I can't explain it, I keep digging.</text>
+  <text x="56" y="177" fill="#c7ff3d" font-family="Consolas,monospace" font-size="18" letter-spacing="2">UNDERSTAND → BUILD → MEASURE → ITERATE</text>
+  <g transform="translate(1120 47)" fill="none" stroke="#c7ff3d" stroke-width="3">
+    <rect x="0" y="25" width="48" height="48" rx="8" opacity=".35"/>
+    <rect x="72" y="0" width="48" height="48" rx="8" opacity=".65"/>
+    <rect x="72" y="72" width="48" height="48" rx="8"/>
+    <rect x="144" y="36" width="48" height="48" rx="8" opacity=".5"/>
+    <path d="M48 49h24M96 48v24M120 96h24l24-24" opacity=".8"/>
+  </g>
+</svg>

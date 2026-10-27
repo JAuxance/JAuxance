@@ -1,123 +1,164 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Auxance&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Web%20developer%20%E2%80%A2%20Learning%20ML%20from%20the%20ground%20up&descAlignY=58&descSize=16" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/JAuxance">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Flask+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Building+TaskFlow+for+my+RNCP5;Word2Vec+by+hand+in+PyTorch;Understand+first%2C+then+build." alt="typing" />
-  </a>
-</p>
+<img src="assets/header.svg" alt="Auxance — I build to understand" width="100%">
 
-<p align="center">
-  <a href="https://auxance.dev"><img src="https://img.shields.io/badge/Portfolio-auxance.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/JAuxance/ai_journey"><img src="https://img.shields.io/badge/AI_Journey-journal-bb9af7?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-</p>
+<br>
 
----
+<a href="https://github.com/JAuxance">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=C7FF3D&center=true&vCenter=true&width=760&lines=Software+engineering.+Machine+learning.+No+shortcuts.;Building+useful+products.+Understanding+what+makes+them+tick.;From+France+to+China+%E2%80%94+toward+ML+research." alt="Software engineering, machine learning, no shortcuts">
+</a>
 
-### 👋 About me
+<br><br>
 
-I'm a French developer working toward a career in **AI / machine learning research**.
-Right now I'm finishing an **RNCP level 5 certification in web development (DWWM)**, with a CS licence and an AI-oriented master as the next steps.
+<a href="https://auxance.dev"><img src="https://img.shields.io/badge/PORTFOLIO-AUXANCE.DEV-c7ff3d?style=for-the-badge&labelColor=101216&logoColor=000000" alt="Portfolio"></a>
+<a href="https://getmanager.app"><img src="https://img.shields.io/badge/MANAGER-GETMANAGER.APP-ff3d9a?style=for-the-badge&labelColor=101216" alt="Manager website"></a>
+<a href="https://github.com/JAuxance/ai_journey"><img src="https://img.shields.io/badge/AI_JOURNEY-PUBLIC_LAB-57f2c3?style=for-the-badge&labelColor=101216" alt="AI Journey"></a>
+<img src="https://komarev.com/ghpvc/?username=JAuxance&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile views">
 
-My rule: **build systems I actually understand**, rather than stack abstractions I couldn't explain.
+</div>
+
+<br>
+
+<img src="assets/manifesto.svg" alt="No black boxes. Understand, build, measure, iterate." width="100%">
+
+## `whoami`
+
+French developer building **real software today**, with **ML research in China** as the long-term direction.
+
+I like the whole path: low-level foundations, backend architecture, useful interfaces, training loops, and the unglamorous debugging in between. Not collecting frameworks — collecting **systems I can explain**.
 
 ```yaml
-currently:
-  building:  TaskFlow — Flask project manager for freelancers & small teams
-  certifying: RNCP 5 (DWWM) — target: Dec 2026
-  learning:  ML fundamentals (embeddings, training loops, transfer learning)
-  studying:  maths for ML · English (→ C1/C2) · Mandarin 中文 (beginner)
+now:
+  shipping: Manager — desktop focus & discipline app for Windows / Linux
+  building: TaskFlow — collaborative project management, RNCP5 project
+  learning: sentence embeddings · transfer learning · ML fundamentals
+  studying: maths for ML · English → C1/C2 · Mandarin 中文
+
 next:
   - CS licence
   - AI / research-oriented master
-  - PhD (long term)
-languages: [French (native), English, Mandarin (learning)]
+  - ML research in China — currently aiming for SJTU
+
+rule: fundamentals_over_hype
 ```
 
 ---
 
-### 🚀 Featured projects
+## Selected builds
+
+### 01 — Manager · **Discipline, made tangible.**
+
+<a href="https://getmanager.app">
+  <img src="https://getmanager.app/video/manager-line-poster.jpg" alt="Manager — official website visual" width="100%">
+</a>
+
+A free desktop app for **focus, discipline and long-term consistency**. Days, tasks, focus sessions, schedule, journal and review — with local data, optional sync, and Dona, the built-in AI coach.
+
+`Windows` `Linux` `Free` `Local-first` `Auto-updates`
+
+**[Visit getmanager.app →](https://getmanager.app)** · **[Download →](https://github.com/JAuxance/manager-releases/releases/latest)**
+
+<br>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🗂️ TaskFlow
-Task & project management for freelancers and small teams.
-**Workspace → Projects → Tasks**, with project-linked discussions.
-
-- Flask with blueprints (auth, workspaces, projects, tasks)
-- Roles `owner / admin / member / guest`, centralized permission checks
-- PostgreSQL · Redis · Docker Compose · Gunicorn · Caddy
-
-`status: in active development (RNCP5 project)`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 AI Journey
-My ML learning repo + public journal. No copy-pasted tutorials: small datasets, small matrices, every step explained.
-
-- **V1** — Word2Vec in PyTorch (input/output embeddings, negative sampling, `BCEWithLogitsLoss`)
-- **V2** *(planned)* — transfer learning, sentence embeddings, measured against V1
-
-`status: V1 done · V2 planned`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JAuxance/TaskFlow">
+        <img src="https://raw.githubusercontent.com/JAuxance/TaskFlow/main/docs/design/captures-reelles/02-project-kanban-desktop.jpg" alt="TaskFlow Kanban board" width="100%">
+      </a>
+      <h3>02 — TaskFlow</h3>
+      <p><b>Teamwork without the chaos.</b></p>
+      <p>Workspaces, projects, Kanban tasks, roles and permissions. Built as a complete RNCP5 application, from data and auth to browser tests and deployment.</p>
+      <p><code>Flask</code> <code>Vue 3</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code></p>
+      <a href="https://github.com/JAuxance/TaskFlow"><b>Explore TaskFlow →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JAuxance/ai_journey">
+        <img src="https://raw.githubusercontent.com/JAuxance/portfolio/main/public/projects/ai-journey.webp" alt="AI Journey — public machine learning lab" width="100%">
+      </a>
+      <h3>03 — AI Journey</h3>
+      <p><b>A public ML lab, not a tutorial graveyard.</b></p>
+      <p>Foundations, maths, experiments and released models. Every project records results, limits and next steps — because “it runs” is not the same as “I understand”.</p>
+      <p><code>PyTorch</code> <code>NumPy</code> <code>scikit-learn</code> <code>Jupyter</code></p>
+      <a href="https://github.com/JAuxance/ai_journey"><b>Enter the lab →</b></a>
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/JAuxance/TaskFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAuxance&repo=TaskFlow&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JAuxance/ai_journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAuxance&repo=ai_journey&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+> **Current experiment:** Portfolio Bot “Trail” — V1 TF-IDF + logistic regression reached **0.629 macro F1**. V2 explores sentence embeddings and transfer learning. The target is improvement that can be **measured**, not just claimed.
 
 ---
 
-### 🛠️ Stack
+## Tools I use to get there
 
-<p align="center">
-  <b>Backend & data</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,redis&theme=dark" />
-  <br/><br/>
-  <b>Infra & tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
-  <br/><br/>
-  <b>Machine learning</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-  <br/><br/>
-  <b>Web</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,rust&theme=dark" alt="Python, TypeScript, JavaScript, C and Rust">
+
+**PRODUCT & WEB**
+
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,flask,html,css,tailwind&theme=dark" alt="Vue, React, Next.js, Flask, HTML, CSS and Tailwind">
+
+**DATA, ML & INFRA**
+
+<img src="https://skillicons.dev/icons?i=pytorch,postgres,redis,docker,linux,git,github&theme=dark" alt="PyTorch, PostgreSQL, Redis, Docker, Linux, Git and GitHub">
+
+</div>
 
 ---
 
-### 📊 GitHub activity
+## The lab notes
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>BUILD</h3>
+      <p>Ship the smallest honest version. Real users, real constraints, real files — not a stack diagram pretending to be a product.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>UNDERSTAND</h3>
+      <p>Open the box. Write the matrix operations. Read the error. Explain the model. Cognitive debt is still debt.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>ITERATE</h3>
+      <p>Measure the result, keep the receipt, improve the weakest part. V1 → V2 → V3, with each version standing on its own.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JAuxance&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAuxance/JAuxance/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/JAuxance/JAuxance/output/github-snake.svg" />
-  </picture>
-</p>
+## GitHub, in numbers
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JAuxance&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=c7ff3d&text_color=a3a9b5&icon_color=ff3d9a&ring_color=c7ff3d&bg_color=08090c" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAuxance&layout=compact&langs_count=6&hide_border=true&title_color=c7ff3d&text_color=a3a9b5&bg_color=08090c" alt="Most used languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=JAuxance&hide_border=true&background=08090C&ring=C7FF3D&fire=FF3D9A&currStreakLabel=C7FF3D&sideLabels=A3A9B5&dates=737B8D&currStreakNum=F4F5F7&sideNums=F4F5F7&stroke=FFFFFF10" alt="GitHub contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAuxance&bg_color=08090c&color=a3a9b5&line=c7ff3d&point=ff3d9a&area=true&area_color=c7ff3d&hide_border=true&custom_title=COMMIT%20FREQUENCY" width="100%" alt="GitHub activity graph">
+
+</div>
+
+---
+
+<div align="center">
+
+### The destination is ambitious. The next commit is small.
+
+**France → China · Software → ML research · Curiosity → Understanding**
+
+<a href="https://auxance.dev"><b>auxance.dev</b></a> · <a href="https://github.com/JAuxance?tab=repositories"><b>All repositories</b></a> · <a href="https://getmanager.app"><b>Manager</b></a>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c7ff3d,50:57f2c3,100:ff3d9a&height=4&section=footer" width="100%" alt="">
+
+</div>
