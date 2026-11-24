@@ -44,8 +44,6 @@ Collaborative project management: workspaces, projects and a Kanban workflow. Bu
   <img src="assets/taskflow-card.jpg" alt="TaskFlow — workspace overview" width="100%">
 </a>
 
-<p>&nbsp;</p>
-
 | | |
 |---|---|
 | **Stack** | Flask · Vue 3 · TypeScript · PostgreSQL · Docker |
