@@ -44,7 +44,7 @@ Collaborative project management: workspaces, projects and a Kanban workflow. Bu
   <img src="assets/taskflow-card.jpg" alt="TaskFlow — workspace overview" width="100%">
 </a>
 
-<br>
+<p>&nbsp;</p>
 
 | | |
 |---|---|
