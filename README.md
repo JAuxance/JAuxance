@@ -40,10 +40,6 @@ A free desktop app for focus, discipline and long-term consistency. Tasks, focus
 
 Collaborative project management: workspaces, projects and a Kanban workflow. Built end to end, from authentication and permissions to tests and deployment.
 
-<a href="https://github.com/JAuxance/TaskFlow">
-  <img src="assets/taskflow-card.jpg" alt="TaskFlow — workspace overview" width="100%">
-</a>
-
 | | |
 |---|---|
 | **Stack** | Flask · Vue 3 · TypeScript · PostgreSQL · Docker |
