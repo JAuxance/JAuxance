@@ -24,6 +24,8 @@ A free desktop app for focus, discipline and long-term consistency. Tasks, focus
   <img src="assets/manager-film.webp" alt="Manager — launch film" width="100%">
 </a>
 
+<p>&nbsp;</p>
+
 | | |
 |---|---|
 | **Platforms** | Windows · Linux (`.exe`, `.deb`, AUR) |
